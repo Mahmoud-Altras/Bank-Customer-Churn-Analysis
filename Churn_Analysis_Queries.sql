@@ -1,5 +1,6 @@
 -- ==============================================================================
--- Bank Customer Churn Analysis - SQL Queries
+-- Project:Bank Customer Churn Analysis - SQL Queries
+-- Author: Mahmoud Nasr Hassan Altras
 -- ==============================================================================
 
 -- 1. Phase 1: Baseline Metrics & Overall Churn Rate
