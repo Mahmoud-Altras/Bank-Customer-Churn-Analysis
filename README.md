@@ -25,4 +25,4 @@ Phase 4: Actionable Recommendations
 
 1. Automated Early Warning System: Deploy an automated trigger to send gamified promotions (e.g., cashback, zero-interest installments) exactly when a high-income customer hits the 30-transaction mark.
 2. VIP Outbound Retention: Eliminate passive email surveys for the +$120K segment. Deploy top-tier outbound agents for proactive "Concierge Check-in" calls to resolve friction points before the account is closed.
-3. Product Repositioning: Initiate an auto-upgrade campaign, granting Gold or Platinum status free for the first year to high-income Blue cardholders to increase switching costs and loyalty..
+3. Product Repositioning: Initiate an auto-upgrade campaign, granting Gold or Platinum status free for the first year to high-income Blue cardholders to increase switching costs and loyalty.
